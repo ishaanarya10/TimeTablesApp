@@ -1,2 +1,2 @@
 # TimeTablesApp
- Android App that shows a list view of multiplication tables up to 2
+ Android App that shows a list view of multiplication tables up to 20
